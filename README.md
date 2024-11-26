@@ -2,6 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=F72590&background=67C9FF00&width=432&lines=I+am+Law+Pandit+)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=271F52&background=67C9FF00&width=432&lines=%E2%9D%A4%EF%B8%8F+Glad+to+see+you+here+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 <br>
+[![](https://visitcount.itsvg.in/api?id=lawpandit6&icon=4&color=2)](https://visitcount.itsvg.in)
+<br>
 **Let's connect**
 - 🏢 I am a Student of B.Tech 
 - 🔭 I’m currently working on **Job Search Platform** project
@@ -27,6 +29,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=lawpandit6&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lawpandit6&icon=4&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
